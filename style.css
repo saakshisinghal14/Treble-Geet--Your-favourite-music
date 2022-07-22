@@ -75,7 +75,7 @@ nav ul li {
    /* justify-content: center; */
   border-radius: 12px;
   padding: 1rem;
-  background: rgba(0, 0, 0, 0.555) url(pic_source/bg2.png);
+  background: rgba(0, 0, 0, 0.525) url(pic_source/bg2.png);
   background-blend-mode: darken;
   background-repeat: no-repeat;
   background-size: cover;
